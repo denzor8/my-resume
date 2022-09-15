@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Code+Pro:ital,wght@1,400;1,500&display=swap');
+html {
+    background-color: #eee;
+    padding: 10px;
+    margin-bottom: 10 px;
+    font-family: roboto ,sans-serif;
+
+}
+body h2 {
+    text-transform:uppercase ;
+    color: greenyellow;
+    font-style: italic;
+}
+body{
+    line-height: 1.6em;
+    text-align:center ;
+    letter-spacing: 2px;
+    
+}
+#avatar {
+    align-items: center;
+    width: 200px;
+    border-radius: 28px ;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+    /* border-radius: 50% ,это полностбю круглая ; */
+
+}
+
+.soft {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: cornsilk;
+    
+}
+.bold{
+    font-size:larger;
+}
+.social{
+    text-align:justify;
+}
+
